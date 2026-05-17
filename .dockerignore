@@ -1,0 +1,5 @@
+.git/
+.github/
+main
+*.test
+coverage.out
